@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: #5ca1d7;
+    margin: 0;
+}
+main {
+    width: 30%;
+    margin: 0 auto;
+}
+h1 {
+    color: white;
+}
+#quote {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+h2 {
+    text-align: left;
+}
+img {
+    width: 25%;
+}
