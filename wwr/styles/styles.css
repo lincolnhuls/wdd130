@@ -198,6 +198,19 @@ main section img {
 .logo {
     width: 80px;
 }
+#river-div {
+    background-color: #73BFB8;
+    width: 50%;
+    margin: 0 auto;
+    padding: 3%;
+}
+.river-home-title {
+    padding: 25%;
+    font-size: 3em;
+}
+#river-heading {
+    padding: 5%;
+}
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
