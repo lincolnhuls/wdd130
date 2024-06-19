@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+.body_div {
+    border-radius: 50%;
+}
+#hero_img {
+    width: 100%;
+}
+.center_text {
+    text-align: center;
+}
+.post_time {
+    color: #415d8c;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.post_info {
+    color: #8d828d;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#bottom_bar {
+    font-weight: lighter;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: #3f5b8b;
+    color: white;
+    border-top: 2px solid black;
+}
+sup {
+    vertical-align: super;
+    font-size: smaller;
+}
+.grid_center {
+    justify-self: center;
+    align-self: center;
+}
+#item2 {
+    border-left: 2px solid #757982;
+    border-right: 2px solid #757982;;
+}
